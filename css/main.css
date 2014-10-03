@@ -1,0 +1,184 @@
+		#index-page {
+			background-color: #D3EDF5;
+		}
+		#about-page {
+			background-color: #D3EDF5;
+		}
+		#contact-page {
+			background-color: #D3EDF5;
+		}
+		#collection-page {
+			background-color: #D3EDF5;
+		}
+		.wrapper {
+			width: 80%;
+			height: 100%;
+			margin: 0 auto;
+		}
+		.clear-float {
+			clear: both;
+		}
+		.list-clean {
+		  	list-style-type: none;
+		  	margin: 0;
+		  	padding: 0;
+	  	}
+	  	
+	  	.list-left li {
+	  		margin: 0;
+	  		padding: 0;
+	  		float: left;
+	  	}
+	  	.header-container {
+	  		width: 100%;
+	  	}
+	  	.header-container h1 {
+	  		font-family:"Courier New", Courier, monospace;
+	  		text-transform: uppercase;
+	  		text-align: center;
+	  		margin: 0 auto;
+			padding: 40px;
+			letter-spacing: 20px;
+			color: #000000;
+			font-weight: normal;
+	  	}
+	  	.main-container {
+	  		margin-right: 15%;
+	  		float: left;
+	  	}
+
+	  	#home-list a {
+	  		text-decoration: none;
+	  		padding: 20px 0 ;
+	  		font-family:"Courier New", Courier, monospace;
+	  		text-transform: uppercase;
+	  		letter-spacing: 2px;
+	  		color: #000000;
+	  		line-height: 30px;
+	  	}
+	  	#home-list a:hover {
+	  		text-decoration: underline;
+	  		line-height: 30px;
+	  	}
+	  	#nav-container {
+	  		display: inline-block;
+	  		width: 15%;
+	  		height: 100%;
+	  		float: left;
+	  		
+
+	  	}
+	  	#nav-container ul li {
+	  		margin-top: 20%;
+	  	}
+	  	
+	  	#home-image {
+	  		float: right;
+			width: 85%;
+			height: 100%;
+			margin-top: 2%;
+			
+	  	}
+
+	  	.bottom-content {
+	  		width: 85%;
+	  		float: right;
+	  		text-align: center;
+	  	}
+	  	#style-list li img {
+	  		width: 23%;
+			float: left;
+			border: 1px solid;
+			margin: 5%;
+			border-radius: 5px;
+	  	}
+	  	.bottom-content h4 {
+	  		font-family:"Courier New", Courier, monospace;
+	  		text-transform: uppercase;
+			margin: 8% 0;
+			letter-spacing: 12px;
+			font-size: 24px;
+			color: #000000;
+			font-weight: normal;
+	  		
+	  	}
+	  	.footer-container {
+	  		margin-top: 2%;
+	  		width: 100%;
+	  		float: left;
+	  		font-family:"Courier New", Courier, monospace;
+	  		text-transform: uppercase;
+	  		letter-spacing: 3px;
+	  		color: #000000;
+	  		font-weight: bold;
+	  		font-size: 12px;
+	  		
+	  	}
+	  	.footer-container img {
+	  		float: left;
+	  		width: 2%;
+	  		margin: 16px 10px;
+	  	}
+	  	.footer-container h4 {
+	  		float: left;
+	  		padding: 2%;
+	  		margin: 0 auto;
+	  		
+	  	}
+	  	#newsletter {
+	  		float: right;
+	  		padding: 2%;
+	  	}
+	  	.copyright {
+	  		float: right;
+	  		text-align: center;
+	  		width: 100%;
+	  	}
+	  	#send {
+	  		background-color: rgba(24, 25, 26, 0.25);
+	  		border-style: hidden;
+	  		padding: 2px 15px;
+			border-style: hidden;
+	  	}
+	  	#about-designer {
+	  		font-family:"Courier New", Courier, monospace;
+			line-height: 200%;
+			text-align: justify;  
+			margin: 0 10% 10% 10%;
+		
+	  	}
+	  	#address {
+	  		float: right;
+	  		width: 85%;
+			text-align: center;
+			font-family:"Courier New", Courier, monospace;
+	  		text-transform: uppercase;
+	  	}
+	  	.contact-form label {
+			display: block;
+			font-family:"Courier New", Courier, monospace;
+			text-transform: uppercase;
+			font-size: 14px;
+			margin: 15px 0;
+			
+				
+		}
+		.form-info input, textarea, select {
+			width: 50%;
+			height: 20px;
+			margin-bottom: 10px;
+			border-color: transparent;
+		}
+		
+		.contact-form textarea {
+			height: 65px;
+		}
+		#form-shift {
+			padding-bottom: 10%;
+		}
+		#collection-list img {
+			width: 70%;
+			float: right;
+			border: 35px solid rgba(78, 158, 189, 0.39);
+		}
+		
